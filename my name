@@ -3,5 +3,6 @@
 intmain(void) {
 
 	printf("Michael Roberts\n");
+	printf("Computer Engineering\n");
 	return 0;
 }
