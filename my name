@@ -4,5 +4,7 @@ intmain(void) {
 
 	printf("Michael Roberts\n");
 	printf("Computer Engineering\n");
+	printf("Jacob Hortman\n");
+	printf("Computer Science\n");
 	return 0;
 }
